@@ -1,0 +1,5 @@
+Start by defining an empty list as the result:
+
+result = []
+
+Then use a nested for loop to fill up the result.
