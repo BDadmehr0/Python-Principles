@@ -1,0 +1,7 @@
+First, use indexing to extract the number and letter.
+
+Use int() to cast the number from a string to an int.
+
+You can use a dictionary to translate the letter into a number.
+
+Return the result as a tuple: (row, column).
