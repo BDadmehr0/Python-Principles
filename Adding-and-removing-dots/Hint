@@ -1,0 +1,3 @@
+For add_dots you may find the string join method useful. If you don't want to use it, you can instead iterate over each letter in the input while building up a result string that is initially empty.
+
+The remove_dots function is similar. Either use the string replace method or manually loop over the letters, keeping ones that aren't ".".
