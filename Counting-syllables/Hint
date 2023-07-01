@@ -1,0 +1,3 @@
+The trick is to realize that the number of syllables is the number of times the - symbol appears, plus one.
+
+You'll have to count hyphens, then. Use a loop to iterate over each letter, or use the .count() method.
