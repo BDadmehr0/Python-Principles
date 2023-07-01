@@ -1,0 +1,1 @@
+Your code should consider each letter in the string at a time. Keep track of the current index; you can do this with enumerate() or manually. To check if a letter is uppercase, you can use the .isupper() method, or use the in operator to see if the letter is in "ABCD..XYZ".
