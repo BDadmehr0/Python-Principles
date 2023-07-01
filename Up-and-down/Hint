@@ -1,0 +1,1 @@
+In this function, we subtract 1 from the input number to get the first number in the tuple, and we add 1 to the number to get the second number in the tuple. The tuple (number - 1, number + 1) represents the pair of numbers requested.

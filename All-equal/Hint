@@ -1,0 +1,1 @@
+In this function, we use a list comprehension and the all function to check if all elements in the list lst are equal to the first element (lst[0]). The all function returns True if all elements in the iterable are True, and False otherwise.

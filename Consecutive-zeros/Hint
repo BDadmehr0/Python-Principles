@@ -1,0 +1,5 @@
+There are different possible approaches.
+
+You can use a for or while loop to scan over the string, while keeping track of how many consecutive zeros you've seen so far. Reset this variable when you see a 1, and keep track of its biggest possible value.
+
+You can also use string.split.
