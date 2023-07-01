@@ -1,5 +1,5 @@
 def only_ints(param1, param2):
-    if isinstance(param1, int) and isinstance(param2, int):
+    if type(param1) == int and type(param2) == int:
         return True
     else:
         return False
