@@ -1,0 +1,13 @@
+
+
+You can perform a series of checks like this:
+
+if "def" not in code:
+    return "missing def"
+
+If you get to the last check, we'll try running your code on your code. If this returns "missing param" it's probably because you have () in your code somewhere, perhaps in a line such as this:
+
+if "()" in code:
+    return "missing param"
+
+To get past this, find some clever workaround to still check for "()" without using the literal string.
