@@ -1,0 +1,1 @@
+Use a for loop to iterate over the .items() in the dictionary. Keep track of a count variable that you increase anytime you see a person with a status of "online".
