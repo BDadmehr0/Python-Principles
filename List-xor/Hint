@@ -1,0 +1,6 @@
+In this function, we use conditional statements to determine whether n is exclusively present in either list1 or list2. We check two conditions:
+
+    If n is present in list1 but not in list2, or
+    If n is present in list2 but not in list1
+
+If either of these conditions is true, we return True, indicating that n is in only one of the lists. Otherwise, we return False, indicating that n is either present in both lists or in none of the lists.
