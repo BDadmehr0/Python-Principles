@@ -1,0 +1,9 @@
+Split the problem up into subproblems:
+
+First find the smallest number.
+
+Then find the largest number.
+
+Then compute their difference and return it.
+
+To find the smallest number you can use the min() built-in. Alternatively you can set smallest = 100 and loop over each number in the input list. Whenever you see a smaller one, set smallest to it.

@@ -1,0 +1,4 @@
+You can use list comprehensions or the map built-in. Use google to learn more.
+
+If you're using map, note that it will return a generator object, which you must convert to a list before your solution is accepted.
+https://www.google.com/?q=python%20how%20to%20use%20list%20comprehensions
