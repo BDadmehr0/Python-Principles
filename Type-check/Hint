@@ -1,0 +1,8 @@
+Google "how to find the type of a variable in python" and compare the type to int.
+
+Note that using isinstance will not work here, because of the following:
+
+>>> isinstance(False, int)
+True
+
+You'll need to find another way (a built-in function).
