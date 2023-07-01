@@ -1,0 +1,1 @@
+In this function, we compare the input string with its reverse using slicing ([::-1]). If the reversed string is equal to the original string, then it is a palindrome, and we return True. Otherwise, we return False.
