@@ -1,0 +1,1 @@
+Use a for or while loop and keep track of the current index. In each iteration, grab the letter at the current index, and the letter after that, and compare the two.
