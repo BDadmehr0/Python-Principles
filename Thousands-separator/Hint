@@ -1,0 +1,1 @@
+Convert the number to a string and iterate over each digit. Iterate backwards, or start by reversing the string, to make your life easier.
