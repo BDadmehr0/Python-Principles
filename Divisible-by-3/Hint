@@ -1,0 +1,13 @@
+
+
+This is not covered in the course. You'll have to use the modulo operator, which is expressed with the percentage sign: %.
+
+You can experiment to figure out how it works with this example:
+
+for i in range(10):
+    print(i % 3)
+
+You can also google it.
+
+Another hint: compare the result of applying the operator to 0.
+https://www.google.com/?q=what%20is%20the%20python%20modulo%20operator
